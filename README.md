@@ -1,4 +1,4 @@
-# さくらのクラウド検定オンライン教材
+# さくらのクラウド検定オンライン教材 - SakuraCloudCertificationStudyMaterial
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)で提供されている、[さくらインターネット](https://www.sakura.ad.jp/)制作の[さくらのクラウド検定　公式オンライン教材](https://zero2one.jp/product/sakuracloudcertificate/)のスライド
 
@@ -12,3 +12,7 @@
   - 1.5. システムマネジメント
 - 2. さくらインターネットのサービス
 - 3. さくらクラウドでのアーキテクチャ設計
+
+## application
+
+- [IT用語集](https://code4fukui.github.io/it-words/)
